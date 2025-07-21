@@ -69,6 +69,7 @@ if diff_file.exists():
         with open(diff_file, "r", encoding="utf-8") as f:
             st.subheader("🔍 Diff Output")
             st.text(f.read())
+            
 import plotly.graph_objects as go
 
 # 🚀 Feature count per company (just example data)
