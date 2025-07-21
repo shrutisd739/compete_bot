@@ -1,0 +1,5 @@
+Changelog: Improved keyboard shortcuts for navigation . Fixed a bug where comments wouldn’t sync in real-time . Fixed comments not syncing in real time .
+
+- Introduced keyboard shortcuts for faster issue triage
+- Added GitHub sync enhancements
+- Improved team analytics dashboard

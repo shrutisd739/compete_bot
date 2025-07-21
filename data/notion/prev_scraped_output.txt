@@ -1,0 +1,7 @@
+## 🆕 Changelog – July 20, 2025
+
+- Added dark mode toggle in settings.
+- Improved search speed by 30%.
+- Fixed a bug where comments weren’t saving on mobile.
+- Introduced slash commands for faster note-taking.
+- Revamped onboarding flow for new users.

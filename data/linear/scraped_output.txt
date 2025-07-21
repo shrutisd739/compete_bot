@@ -1,0 +1,7 @@
+## 🔄 Linear Changelog – July 20, 2025
+
+- Introduced timeline view in projects.
+- Added GitHub integration for issue linking.
+- Improved keyboard shortcuts for navigation.
+- Fixed a bug where comments wouldn’t sync in real-time.
+- Refined dark mode contrast for better readability.

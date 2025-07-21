@@ -1,0 +1,5 @@
+The latest height update is July 13, 2025 and July 20, 2025 . The update has been updated to update the board view on mobile Safari . It has also added task dependencies support for Slack .
+
+- Released automation rules for workflows
+- Improved performance on mobile
+- New UI themes launched

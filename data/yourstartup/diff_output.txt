@@ -1,0 +1,3 @@
++ Added chatbot integration with vernacular language support
++ Improved UX of scheme search
++ Fixed bug in location-based filtering

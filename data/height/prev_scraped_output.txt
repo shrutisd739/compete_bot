@@ -1,0 +1,6 @@
+## 🚀 Height Updates – July 20, 2025
+
+- Added task dependencies support.
+- Introduced Slack command /height new to create tasks from Slack.
+- Enhanced board view performance.
+- Fixed layout issues on mobile Safari.

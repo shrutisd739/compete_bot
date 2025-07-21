@@ -1,0 +1,5 @@
+The latest version of the app has been released on July 13, 2025, and July 20, 2025 . It has been updated to reflect the changes made in the summer .
+
+- Launched a new timeline view for project tracking
+- Improved Notion AI writing capabilities
+- Added Slack integration to sync tasks

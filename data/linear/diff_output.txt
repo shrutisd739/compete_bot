@@ -1,0 +1,7 @@
+--- 
++++ 
+@@ -1,4 +0,0 @@
+-## 🔄 Linear Changelog – July 13, 2025
+-
+-- Improved keyboard shortcuts for navigation.
+-- Fixed a bug where comments wouldn’t sync in real-time.
